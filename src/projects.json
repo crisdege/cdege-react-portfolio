@@ -18,7 +18,7 @@
     {
         "id": 3,
         "name": "Work Day Scheduler",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/crisdege/super-disco-scheduler/main/assets/images/ScreenShot.png",
         "github": "https://github.com/crisdege/super-disco-scheduler",
         "deployedapp": "https://crisdege.github.io/super-disco-scheduler/",
         "skills": "HTML | CSS | JavaScript "
@@ -26,7 +26,7 @@
     {
         "id": 4,
         "name": "Just Another Text Editor",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/crisdege/JustAnotherTextEditor/main/assets/Image%2010-9-22%20at%209.56%20AM.jpg",
         "github": "https://github.com/crisdege/JustAnotherTextEditor",
         "deployedapp": "https://pure-oasis-61290.herokuapp.com/",
         "skills": "Node.js | Express.js | JavaScript | Webpack"
