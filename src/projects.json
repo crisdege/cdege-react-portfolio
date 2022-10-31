@@ -2,7 +2,7 @@
     {
         "id": 1,
         "name": "To-Dine List",
-        "image": "https://github.com/crisdege/to-dine-list/blob/main/public/images/homepage.png",
+        "image": "https://raw.githubusercontent.com/crisdege/to-dine-list/main/public/images/homepage.png",
         "github": "https://github.com/crisdege/to-dine-list",
         "deployedapp": "https://hidden-shelf-57015.herokuapp.com/",
         "skills": "MERN"
@@ -10,7 +10,7 @@
     {
         "id": 2,
         "name": "Genre Buddy",
-        "image": "",
+        "image": "https://raw.githubusercontent.com/crisdege/genre-buddyii/main/assets/images/screenshot.PNG",
         "github": "https://github.com/crisdege/genre-buddyii",
         "deployedapp": "https://crisdege.github.io/genre-buddyii/",
         "skills": "HTML | CSS | JavaScript | Materialize"
