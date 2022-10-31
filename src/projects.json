@@ -14,5 +14,21 @@
         "github": "https://github.com/crisdege/genre-buddyii",
         "deployedapp": "https://crisdege.github.io/genre-buddyii/",
         "skills": "HTML | CSS | JavaScript | Materialize"
+    },
+    {
+        "id": 3,
+        "name": "Work Day Scheduler",
+        "image": "",
+        "github": "https://github.com/crisdege/super-disco-scheduler",
+        "deployedapp": "https://crisdege.github.io/super-disco-scheduler/",
+        "skills": "HTML | CSS | JavaScript "
+    },
+    {
+        "id": 4,
+        "name": "Just Another Text Editor",
+        "image": "",
+        "github": "https://github.com/crisdege/JustAnotherTextEditor",
+        "deployedapp": "https://pure-oasis-61290.herokuapp.com/",
+        "skills": "Node.js | Express.js | JavaScript | Webpack"
     }
 ]
