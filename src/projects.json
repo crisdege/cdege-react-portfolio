@@ -1,0 +1,18 @@
+[
+    {
+        "id": 1,
+        "name": "To-Dine List",
+        "image": "https://github.com/crisdege/to-dine-list/blob/main/public/images/homepage.png",
+        "github": "https://github.com/crisdege/to-dine-list",
+        "deployedapp": "https://hidden-shelf-57015.herokuapp.com/",
+        "skills": "MERN"
+    },
+    {
+        "id": 2,
+        "name": "Genre Buddy",
+        "image": "",
+        "github": "https://github.com/crisdege/genre-buddyii",
+        "deployedapp": "https://crisdege.github.io/genre-buddyii/",
+        "skills": "HTML | CSS | JavaScript | Materialize"
+    }
+]

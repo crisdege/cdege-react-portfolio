@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import Nav from '../Nav';
 import About from '../About';
+import Projects from '../Portfolio';
 
 function Portfolio() {
   // state of current page
@@ -11,7 +12,8 @@ function Portfolio() {
     switch (currentPage) {
       case 'about':
         return <About></About>;
-
+      case 'portfolio':
+        return <Projects></Projects>;
       default:
         return <About></About>;
     }
